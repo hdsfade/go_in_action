@@ -1,2 +1,2 @@
 # go_in_action
-example code of Go in Action
+code of Go in Action
